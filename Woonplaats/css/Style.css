@@ -1,0 +1,19 @@
+[class*="col-"] {width: 100%;}
+@media only screen and (min-width: 600px) {[class*="col-"] {float: left; padding: 10px;}
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}}
+header {height: 500px; background-image: url('https://www.sint-niklaas.be/sites/portaal/files/styles/slideshow_image_2000x570/public/2019-03/171002%20CAM_C_LICHT_DEF.JPG?h=c19843b2&itok=O8ZX6TTK'); background-repeat: no-repeat; background-attachment: inherit; background-size: 100% 100%;}
+.koptekst {font-family: Verdana, Ariel, sans-serif; color: black; font-size: 4vw; margin-left: 50px;}
+#feitjes {border: solid; border-color: navy; border-radius: 10px; margin-top: 10px; margin-bottom: 10px; padding-top: 5px;}
+#een {min-height: 430px; background-color: powderblue; padding: 5px; border-radius: 10px;}
+img {float: right; width: 15%; margin-left: 5px; border-radius: 5px; border: 2px solid white; padding: 5px;}
